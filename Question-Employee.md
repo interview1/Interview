@@ -1,11 +1,11 @@
 ## QUESTION 1
 
-	a)Please write a rest service which will read 
+Please write a rest service which will read 
   -[Employee.json](https://github.com/interview1/Interview/blob/master/Employee.json)-
   
-	b)it will return below json format
+it will return below json format
   
-	c)All projects should be sorted based on criticality (high to low) and employees under a project should be sorted by their doj in 
+All projects should be sorted based on criticality (high to low) and employees under a project should be sorted by their doj in 
   asending order.
 
   [{
