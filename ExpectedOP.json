@@ -1,11 +1,14 @@
 [{
     "projectId":"",
     "projectName":"",
+    "criticality":"",
     "employees":[{
         "empId":"",
-        "empName":""
+        "empName":"",
+        "doj":""
     },{
         "empId":"",
-        "empName":""
+        "empName":"",
+        "doj":""
     }]
 }]
